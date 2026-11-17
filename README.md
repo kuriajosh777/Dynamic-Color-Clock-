@@ -10,8 +10,9 @@ A colorful digital clock built with **React**, **Vite**, and **date-fns**. It sh
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd color-clock
+git clone https://github.com/kuriajosh777/Dynamic-Color-Clock-.git
+cd Dynamic-Color-Clock-
+
 
 # 2. Install dependencies
 npm install
