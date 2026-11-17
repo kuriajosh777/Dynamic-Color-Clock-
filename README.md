@@ -44,4 +44,4 @@ color-clock/
 
 ## Screenshot
 
-[Color Clock](Screenshot 2026-11-17 090807.png)
+![Color Clock](Screenshot.png)
